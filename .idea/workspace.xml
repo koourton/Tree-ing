@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc89e650-b570-4d08-9316-3d1d1ada9d41" name="Changes" comment="" />
+    <list default="true" id="bc89e650-b570-4d08-9316-3d1d1ada9d41" name="Changes" comment="initial push" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +48,8 @@
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
@@ -69,7 +71,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746358315488</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial push">
+      <option name="closed" value="true" />
+      <created>1746359564958</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746359564958</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,7 +93,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -97,6 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This commit introduces implementations of Binary Search Trees (BST), AVL Trees, and Red-Black Trees, along with a GUI framework for visualizing them." />
-    <option name="LAST_COMMIT_MESSAGE" value="This commit introduces implementations of Binary Search Trees (BST), AVL Trees, and Red-Black Trees, along with a GUI framework for visualizing them." />
+    <MESSAGE value="initial push" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial push" />
   </component>
 </project>
